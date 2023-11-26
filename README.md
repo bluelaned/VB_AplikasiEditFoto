@@ -3,7 +3,7 @@ this is basic how editing app photo works like (photoshop, etc)
 
 ## Menu
 - File (New, Open, Save as)
-- Image (grayscale
+- Image (grayscale)
 - Filter (mean, boundary, median)
 
 ## How to use:
