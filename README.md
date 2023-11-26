@@ -9,5 +9,5 @@ this is basic how editing app photo works like (photoshop, etc)
 ## How to use:
 - file, Open, Select Image
 - apply the filter u want to use (example : grayscale)
-  ![image](https://github.com/bluelaned/VS_AplikasiEditFoto/assets/43365136/1ce5bb97-eeaf-42f9-841e-5ba19f011f0c)
+  ![image](https://github.com/bluelaned/VS_AplikasiEditFoto/assets/43365136/cb067e83-c02f-4d8c-acd2-8b48ce0f8285)
 - you can save the image too
