@@ -1,5 +1,5 @@
 # VB_AplikasiEditFoto
-this is basic how editing app photo works like (photoshop, etc)
+this is basic app, how editing photo app works like (photoshop, etc)
 
 ## Menu
 - File (New, Open, Save as)
