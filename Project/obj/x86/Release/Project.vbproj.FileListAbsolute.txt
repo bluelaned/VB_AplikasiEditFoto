@@ -1,0 +1,13 @@
+D:\windy\Quiz Windy\Project\bin\Release\Project.exe.config
+D:\windy\Quiz Windy\Project\bin\Release\Project.exe
+D:\windy\Quiz Windy\Project\bin\Release\Project.pdb
+D:\windy\Quiz Windy\Project\bin\Release\Project.xml
+D:\windy\Quiz Windy\Project\obj\x86\Release\Project.vbproj.AssemblyReference.cache
+D:\windy\Quiz Windy\Project\obj\x86\Release\Project.Form1.resources
+D:\windy\Quiz Windy\Project\obj\x86\Release\Project.Form2.resources
+D:\windy\Quiz Windy\Project\obj\x86\Release\Project.Resources.resources
+D:\windy\Quiz Windy\Project\obj\x86\Release\Project.vbproj.GenerateResource.cache
+D:\windy\Quiz Windy\Project\obj\x86\Release\Project.vbproj.CoreCompileInputs.cache
+D:\windy\Quiz Windy\Project\obj\x86\Release\Project.exe
+D:\windy\Quiz Windy\Project\obj\x86\Release\Project.xml
+D:\windy\Quiz Windy\Project\obj\x86\Release\Project.pdb

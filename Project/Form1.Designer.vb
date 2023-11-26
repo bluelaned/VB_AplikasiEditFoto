@@ -40,9 +40,9 @@ Partial Class Form1
         Me.ViewToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.WindowsToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.HelpToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.AboutMeToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.OpenFileDialog1 = New System.Windows.Forms.OpenFileDialog()
         Me.SFD = New System.Windows.Forms.SaveFileDialog()
-        Me.AboutMeToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -121,19 +121,19 @@ Partial Class Form1
         'RatarataToolStripMenuItem
         '
         Me.RatarataToolStripMenuItem.Name = "RatarataToolStripMenuItem"
-        Me.RatarataToolStripMenuItem.Size = New System.Drawing.Size(119, 22)
-        Me.RatarataToolStripMenuItem.Text = "rata-rata"
+        Me.RatarataToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.RatarataToolStripMenuItem.Text = "mean"
         '
         'BatasToolStripMenuItem
         '
         Me.BatasToolStripMenuItem.Name = "BatasToolStripMenuItem"
-        Me.BatasToolStripMenuItem.Size = New System.Drawing.Size(119, 22)
-        Me.BatasToolStripMenuItem.Text = "batas"
+        Me.BatasToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.BatasToolStripMenuItem.Text = "boundary"
         '
         'MedianToolStripMenuItem
         '
         Me.MedianToolStripMenuItem.Name = "MedianToolStripMenuItem"
-        Me.MedianToolStripMenuItem.Size = New System.Drawing.Size(119, 22)
+        Me.MedianToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.MedianToolStripMenuItem.Text = "median"
         '
         'DToolStripMenuItem
@@ -161,15 +161,15 @@ Partial Class Form1
         Me.HelpToolStripMenuItem.Size = New System.Drawing.Size(44, 20)
         Me.HelpToolStripMenuItem.Text = "Help"
         '
-        'OpenFileDialog1
-        '
-        Me.OpenFileDialog1.FileName = "OpenFileDialog1"
-        '
         'AboutMeToolStripMenuItem
         '
         Me.AboutMeToolStripMenuItem.Name = "AboutMeToolStripMenuItem"
-        Me.AboutMeToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.AboutMeToolStripMenuItem.Size = New System.Drawing.Size(127, 22)
         Me.AboutMeToolStripMenuItem.Text = "About Me"
+        '
+        'OpenFileDialog1
+        '
+        Me.OpenFileDialog1.FileName = "OpenFileDialog1"
         '
         'Form1
         '
